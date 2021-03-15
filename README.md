@@ -1,14 +1,14 @@
 ### Hi there 👋  I'm Jessica
 
-🔭 I’m currently working on a DrPH in biostatistics 
+🔭  I’m currently working on a DrPH in biostatistics 
 
-🤔 My GitHub repos are a mix of schoolwork and other dabblings from learning Git & R  
+🤔  My GitHub repos are a mix of schoolwork and other dabblings from learning Git & R  
 
-🌱 I’m currently learning how to create & maintain R packages  
+🌱  I’m currently learning how to create & maintain R packages  
 
-📫 How to reach me: www.jessicalavery.com  
+📫  How to reach me: www.jessicalavery.com  
 
-😄 Pronouns: she/her  
+😄  Pronouns: she/her  
 
 <!--
 **jalavery/jalavery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
