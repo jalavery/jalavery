@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Jessica
 
-🔭  I’m currently working on a DrPH in biostatistics 
+🔭  I’m currently working on a DrPH in biostatistics while working as a Resarch Biostatistician  
 
 🤔  My GitHub repos are a mix of schoolwork and other dabblings from learning Git & R  
 
